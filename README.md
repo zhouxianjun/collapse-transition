@@ -1,4 +1,4 @@
-# vue-emitter
+# vue collapse transition
 
 vue tree collapse transition
 
